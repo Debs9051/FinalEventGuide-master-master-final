@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Schedule">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_dayOne"
+                    android:icon="@drawable/ic_calender"
+                    android:title="18th June, Day 1" />
+                <item
+                    android:id="@+id/nav_dayTwo"
+                    android:icon="@drawable/ic_calender"
+                    android:title="19th June, Day 2" />
+                <item
+                    android:id="@+id/nav_dayThree"
+                    android:icon="@drawable/ic_calender"
+                    android:title="20th June, Day 3" />
+            </group>
+
+        </menu>
+    </item>
+
+    <item android:title="Key Stakeholders">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_key"
+                    android:icon="@drawable/ic_people"
+                    android:title="Stakeholder details" />
+
+            </group>
+        </menu>
+    </item>
+
+</menu>

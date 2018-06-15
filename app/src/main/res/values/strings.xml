@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Guide Me!</string>
+    <string name="app_developed">Developed by TCS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_submit">Submit</string>
+    <string name="action_login">Continue</string>
+    <string name="client_name">Guide Me!</string>
+    <string name="client_welcome">Welcome to Kolkata</string>
+    <string name="kolkata_desc">Kolkata (formerly Calcutta) is the capital of India&amp;s West Bengal state. Founded as an East India Company trading post, it was India&amp;s capital under the British Raj from 1773–1911. Today it’s known for its grand colonial architecture, art galleries and cultural festivals. It’s also home to Mother House, headquarters of the Missionaries of Charity, founded by Mother Teresa, whose tomb is on site.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
